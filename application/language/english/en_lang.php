@@ -1,0 +1,31 @@
+<?php
+$lang['Trang chủ']='Home';
+$lang['Giỏ hàng']='Cart';
+$lang['Bài tập']='Exercise';
+$lang['Bài tập 1']='Exercise 1';
+$lang['Bài tập 2']='Exercise 2';
+$lang['Bài tập 3']='Exercise 3';
+$lang['Bài tập 4']='Exercise 4';
+$lang['Nội thất phòng ngủ']='Bedroom furniture';
+$lang['Nội thất phòng khách']='The living room furniture';
+$lang['Nội thất văn phòng']='Office furniture';
+$lang['Nội thất gia đình']='Home furniture';
+$lang['Ngôn ngữ']='Language';
+$lang['Sản phẩm gỗ']='Wooden product';
+$lang['Tiếng Anh']='Engligh';
+$lang['Tiếng Việt']='VietNamese';
+$lang['Tủ áo']='Wardrobe';
+$lang['Giường']='Bed';
+$lang['Kệ TV']='Shelves TV';
+$lang['Kệ bếp']='Kitchen-shelf';
+$lang['Kệ sách trang trí']='Decorative bookshelf';
+$lang['Quầy tiếp tân']='Reception';
+$lang['Bàn nhân viên']='Desk staff';
+$lang['Tủ hồ sơ']='Filing cabinets';
+$lang['Bàn hộp']='Table meeting';
+$lang['Phòng máy']='Engine room';
+$lang['Sản phẩm']='Product';
+$lang['Danh sách sản phẩm mới']='List of new products';
+$lang['Danh sách sản phẩm khuyến mãi']='Product List Promotion';
+$lang['Tin tức']='News';
+?>
